@@ -2,10 +2,8 @@
 
 # Cloud Security with AWS IAM
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-iam)
-
-**Author:** Ajibola  
-**Email:** ajibolaogunbanwo12@gmail.com
+**Author:** Ajibola Ogunbanwo
+**Email:** ajibolaimpo@gmail.com
 
 ---
 
